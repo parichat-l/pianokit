@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-color: pink;
+}
+
+h1 {
+  font-size: 5rem;
+  color: blue;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;*/
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.key span {
+  font-size: 2rem;
+}
+
+.key {
+  outline: none;
+  border: 10px solid black;
+  font-size: 4rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 800;
+  color: #DA0463;
+  /*text-shadow: 3px 0 #DBEDF3;*/
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 250px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
